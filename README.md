@@ -1,1 +1,1 @@
-# quiz
+#  https://higherqualityoflife.github.io/quiz/
