@@ -1,1 +1,1 @@
-#  https://higherqualityoflife.github.io/quiz/
+#  https://higherqualityoflife.github.io/lp/
